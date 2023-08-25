@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jun 29 22:55:40 PDT 2023
+https\://repository.mulesoft.org/releases/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1688104540241
+file\://c\:/snapshots/.error=
+https\://maven.anypoint.mulesoft.com/api/v3/maven/.error=
+file\://c\:/snapshots/.lastUpdated=1688104540083
+https\://maven.anypoint.mulesoft.com/api/v3/maven/.lastUpdated=1688104539971
+https\://repository.mulesoft.org/releases/.lastUpdated=1688104540076
